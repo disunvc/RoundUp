@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RoundUp Financial</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #007BFF;
+      padding: 20px;
+      text-align: center;
+      color: #fff;
+    }
+    section {
+      padding: 40px;
+      text-align: center;
+    }
+    footer {
+      background-color: #007BFF;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RoundUp Financial</h1>
+    <p>Transforming Your Financial Future</p>
+  </header>
+
+  <section>
+    <h2>About RoundUp Financial</h2>
+    <p>RoundUp is on a mission to empower individuals and small businesses to break free from the debt cycle. Our innovative rounding-up mechanism turns everyday transactions into opportunities for debt reduction. With transparency, simplicity, and user-friendly features, RoundUp is your partner in financial wellness.</p>
+  </section>
+
+  <section>
+    <h2>How RoundUp Works</h2>
+    <p>1. Connect your accounts<br>2. Choose your rounding-up preference<br>3. Watch your small change add up over time<br>4. Effortlessly contribute to debt repayment<br>5. Track your progress on our intuitive dashboard</p>
+  </section>
+
+  <section>
+    <h2>Why Choose RoundUp?</h2>
+    <p>• Effortless Saving: Save without thinking about it with our automatic rounding-up.<br>• Customizable Plans: Choose the rounding-up amount that suits your financial goals.<br>• Transparency: Track your progress and savings on our user-friendly dashboard.<br>• Financial Education: Gain insights and tips to improve your financial well-being.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 RoundUp Financial. All rights reserved.</p>
+  </footer>
+</body>
+</html>
